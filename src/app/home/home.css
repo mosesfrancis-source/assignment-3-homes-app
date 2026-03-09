@@ -6,3 +6,7 @@
     margin-top: 50px;
     justify-content: space-around;
 }
+
+.filter-input {
+    width: 30%;
+}
